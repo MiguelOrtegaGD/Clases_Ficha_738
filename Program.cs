@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Clases_Ficha_738
 {
@@ -10,7 +7,22 @@ namespace Clases_Ficha_738
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Esto es una prueba del uso de repositorios con Visual Studio");
+            List<Personaje> personajes = new List<Personaje>()
+            {
+                 new Princesa("Lauren"),
+                 new Minero("Taysir"),
+                 new Caballero("Elian")
+            };
+
+            BolaHielo bola = new BolaHielo();
+
+            foreach (var item in personajes)
+            {
+                if (item is ICongelable congelable)
+                {
+                    bola.Congelar(congelable);
+                }
+            }
         }
     }
 }

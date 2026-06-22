@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BolaHielo.cs" />
+    <Compile Include="Caballero.cs" />
+    <Compile Include="ICongelable.cs" />
+    <Compile Include="Minero.cs" />
+    <Compile Include="Personaje.cs" />
+    <Compile Include="Princesa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

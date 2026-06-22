@@ -1,0 +1,8 @@
+C:\Projects\Clases_Ficha_738\Clases_Ficha_738\bin\Debug\Clases_Ficha_738.exe.config
+C:\Projects\Clases_Ficha_738\Clases_Ficha_738\bin\Debug\Clases_Ficha_738.exe
+C:\Projects\Clases_Ficha_738\Clases_Ficha_738\bin\Debug\Clases_Ficha_738.pdb
+C:\Projects\Clases_Ficha_738\Clases_Ficha_738\obj\Debug\Clases_Ficha_738.csproj.AssemblyReference.cache
+C:\Projects\Clases_Ficha_738\Clases_Ficha_738\obj\Debug\Clases_Ficha_738.csproj.CoreCompileInputs.cache
+C:\Projects\Clases_Ficha_738\Clases_Ficha_738\obj\Debug\Clases_Ficha_738.exe
+C:\Projects\Clases_Ficha_738\Clases_Ficha_738\obj\Debug\Clases_Ficha_738.pdb
+C:\Projects\Clases_Ficha_738\Clases_Ficha_738\obj\Debug\Clases_Ficha_738.exe.config
