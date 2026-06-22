@@ -10,6 +10,7 @@ namespace Clases_Ficha_738
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Esto es una prueba del uso de repositorios con Visual Studio");
         }
     }
 }
